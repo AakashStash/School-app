@@ -9,11 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "cloudinary": "^2.7.0",
+    "cookie": "^1.0.2",
     "formidable": "^3.5.4",
+    "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.542.0",
     "mysql2": "^3.14.3",
     "next": "15.5.2",
+    "nodemailer": "^7.0.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-hook-form": "^7.62.0"

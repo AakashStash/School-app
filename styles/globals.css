@@ -210,3 +210,15 @@ body {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+
+/* login */
+.otp-btn{
+  box-flex-group: blue;
+  font-size: 24px;
+  border-radius: 10px ;
+}
+
+.otp-btn:hover{
+  background-color: rgb(27, 27, 155);
+}
